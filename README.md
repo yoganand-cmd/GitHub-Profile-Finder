@@ -1,4 +1,4 @@
-)
+
 🔍 GitHub Profile Finder
 
 A responsive web application that allows users to search for any GitHub profile and view detailed user information in real time using the GitHub REST API. The app displays profile details, follower statistics, and recently created repositories in a clean and interactive UI.
