@@ -55,4 +55,4 @@ Shows error message if username is invalid
 This project uses the public GitHub API and does not require authentication.
 
 📄 Open-source project for learning and educational purposes.
-`
+``
